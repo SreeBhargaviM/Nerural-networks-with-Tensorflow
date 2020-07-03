@@ -1,2 +1,2 @@
-# Nerural-networks-with-Tensorflow
+# Neural-networks-with-Tensorflow
 Using keras for deep, convolutional and sequential neural networks
